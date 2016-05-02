@@ -1,0 +1,10 @@
+/home/amani/FOR_THILINI/BPM_Samples/OrderProcessingSample/Order_Processing_Sample/Invoicing_Service_Axis2/src/main/java/org/wso2/samples/invoicingservice/InvoicingServiceSkeleton.java
+/home/amani/FOR_THILINI/BPM_Samples/OrderProcessingSample/Order_Processing_Sample/Invoicing_Service_Axis2/src/main/java/org/wso2/samples/orderprocessingprocess/InvoiceType.java
+/home/amani/FOR_THILINI/BPM_Samples/OrderProcessingSample/Order_Processing_Sample/Invoicing_Service_Axis2/src/main/java/org/wso2/samples/invoicingservice/ExtensionMapper.java
+/home/amani/FOR_THILINI/BPM_Samples/OrderProcessingSample/Order_Processing_Sample/Invoicing_Service_Axis2/src/main/java/org/wso2/samples/invoicingservice/InvoicingServiceMessageReceiverInOut.java
+/home/amani/FOR_THILINI/BPM_Samples/OrderProcessingSample/Order_Processing_Sample/Invoicing_Service_Axis2/src/main/java/org/wso2/samples/orderprocessingprocess/Process.java
+/home/amani/FOR_THILINI/BPM_Samples/OrderProcessingSample/Order_Processing_Sample/Invoicing_Service_Axis2/src/main/java/org/wso2/samples/invoicingservice/Invoice.java
+/home/amani/FOR_THILINI/BPM_Samples/OrderProcessingSample/Order_Processing_Sample/Invoicing_Service_Axis2/src/main/java/org/wso2/samples/orderprocessingprocess/ItemType.java
+/home/amani/FOR_THILINI/BPM_Samples/OrderProcessingSample/Order_Processing_Sample/Invoicing_Service_Axis2/src/main/java/org/wso2/samples/orderprocessingprocess/ProcessResponse.java
+/home/amani/FOR_THILINI/BPM_Samples/OrderProcessingSample/Order_Processing_Sample/Invoicing_Service_Axis2/src/main/java/org/wso2/samples/invoicingservice/InvoiceResponse.java
+/home/amani/FOR_THILINI/BPM_Samples/OrderProcessingSample/Order_Processing_Sample/Invoicing_Service_Axis2/src/main/java/org/wso2/samples/orderprocessingprocess/ItemsType.java

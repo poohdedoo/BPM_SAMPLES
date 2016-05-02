@@ -1,0 +1,17 @@
+org/wso2/samples/orderprocessingprocess/Process.class
+org/wso2/samples/invoicingservice/Invoice.class
+org/wso2/samples/orderprocessingprocess/ItemType$Factory.class
+org/wso2/samples/orderprocessingprocess/ItemType.class
+org/wso2/samples/orderprocessingprocess/ProcessResponse$Factory.class
+org/wso2/samples/invoicingservice/Invoice$Factory.class
+org/wso2/samples/orderprocessingprocess/ProcessResponse.class
+org/wso2/samples/orderprocessingprocess/Process$Factory.class
+org/wso2/samples/orderprocessingprocess/ItemsType.class
+org/wso2/samples/orderprocessingprocess/ItemsType$Factory.class
+org/wso2/samples/invoicingservice/InvoiceResponse$Factory.class
+org/wso2/samples/invoicingservice/InvoiceResponse.class
+org/wso2/samples/invoicingservice/ExtensionMapper.class
+org/wso2/samples/invoicingservice/InvoicingServiceMessageReceiverInOut.class
+org/wso2/samples/orderprocessingprocess/InvoiceType.class
+org/wso2/samples/invoicingservice/InvoicingServiceSkeleton.class
+org/wso2/samples/orderprocessingprocess/InvoiceType$Factory.class

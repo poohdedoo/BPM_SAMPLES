@@ -1,0 +1,7 @@
+org/wso2/samples/placeorderservice/PlaceOrder.class
+org/wso2/samples/placeorderservice/PlaceOrderResponse.class
+org/wso2/samples/placeorderservice/PlaceOrder$Factory.class
+org/wso2/samples/placeorderservice/PlaceOrderServiceMessageReceiverInOut.class
+org/wso2/samples/placeorderservice/PlaceOrderResponse$Factory.class
+org/wso2/samples/placeorderservice/ExtensionMapper.class
+org/wso2/samples/placeorderservice/PlaceOrderServiceSkeleton.class

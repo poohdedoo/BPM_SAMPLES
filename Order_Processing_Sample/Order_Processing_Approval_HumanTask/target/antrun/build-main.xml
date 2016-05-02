@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <zip excludes="target/**" basedir="/home/amani/FOR_THILINI/BPM_Samples/OrderProcessingSample/Order_Processing_Sample/Order_Processing_Approval_HumanTask/src/resources" destfile="/home/amani/FOR_THILINI/BPM_Samples/OrderProcessingSample/Order_Processing_Sample/Order_Processing_Approval_HumanTask/target/Order_Processing_Approval_HumanTask.zip"/>
+</target>
+</project>
